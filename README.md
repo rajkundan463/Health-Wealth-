@@ -1,3 +1,13 @@
+Health Wealth!
+ A website where patients can schedule appointments and view available doctors anytime, anywhere.
+ :– Some features implemented in project are
+ :– Patients can book appointments with doctors available in specific time slots
+ :– Individuals can apply for doctor positions, with admin authority to approve or reject these applications
+ :– Distinct, user-specific interfaces for patients, doctors, and admins
+ :– Tools & Technologies used : ReactJS, Javascript, MongoDB, NodeJS
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
